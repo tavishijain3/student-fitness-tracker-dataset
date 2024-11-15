@@ -1,0 +1,201 @@
+Student_ID,Age,Gender,Height_cm,Weight_kg,Fitness_Goal,Activity_Level,Preferred_Workout_Time,Dietary_Preference,Daily_Step_Count,Resting_Heart_Rate,Academic_Schedule,Preferred_Exercise_Type,Weekly_Workout_Frequency,Chronic_Condition
+S1,24,Male,190,54,Endurance,Active,Morning,Vegetarian,13233,86,9,Gym,6,None
+S2,21,Male,156,54,Flexibility,Lightly Active,Afternoon,Vegan,4828,62,9,Home Workouts,5,None
+S3,25,Male,153,63,Endurance,Lightly Active,Evening,Non-Vegetarian,13300,76,7,Running,4,Asthma
+S4,22,Other,160,61,Muscle Gain,Active,Evening,Vegetarian,12130,87,8,Sports,6,None
+S5,24,Female,178,65,Muscle Gain,Active,Evening,Non-Vegetarian,7805,88,10,Home Workouts,6,None
+S6,20,Male,185,58,Endurance,Active,Evening,Non-Vegetarian,3806,80,9,Yoga,2,None
+S7,24,Female,174,53,Flexibility,Very Active,Afternoon,Vegetarian,12655,75,10,Yoga,7,None
+S8,25,Female,170,90,Flexibility,Lightly Active,Afternoon,Vegetarian,10486,96,4,Yoga,1,None
+S9,22,Female,185,45,Weight Loss,Very Active,Morning,Vegetarian,14607,79,7,Yoga,5,None
+S10,21,Female,159,95,Flexibility,Very Active,Morning,Jain,11202,65,5,Running,4,None
+S11,25,Male,186,89,Endurance,Active,Morning,Vegetarian,4868,78,10,Sports,6,None
+S12,25,Male,158,57,Muscle Gain,Active,Morning,Vegetarian,10878,64,9,Gym,4,None
+S13,20,Female,173,48,Weight Loss,Sedentary,Afternoon,Vegetarian,8690,62,4,Running,2,None
+S14,23,Other,184,45,Weight Loss,Sedentary,Evening,Vegetarian,10827,60,6,Running,5,None
+S15,22,Female,184,93,Muscle Gain,Very Active,Afternoon,Vegan,8429,97,4,Gym,6,Hypertension
+S16,19,Male,185,84,Flexibility,Lightly Active,Morning,Jain,12076,74,4,Gym,4,None
+S17,25,Male,167,76,Muscle Gain,Active,Afternoon,Non-Vegetarian,6564,93,7,Yoga,1,None
+S18,23,Female,188,78,Flexibility,Active,Evening,Vegetarian,4389,94,5,Running,7,Asthma
+S19,19,Female,181,72,Muscle Gain,Very Active,Evening,Vegan,14593,84,6,Home Workouts,2,None
+S20,22,Female,173,75,Endurance,Sedentary,Afternoon,Vegan,10274,83,8,Gym,5,Hypertension
+S21,18,Female,172,52,Flexibility,Lightly Active,Afternoon,Vegan,3824,71,8,Gym,2,None
+S22,23,Female,181,83,Endurance,Sedentary,Afternoon,Non-Vegetarian,5265,77,10,Sports,1,Hypertension
+S23,26,Male,186,70,Weight Loss,Sedentary,Morning,Vegetarian,3936,74,4,Home Workouts,5,None
+S24,18,Male,161,78,Muscle Gain,Sedentary,Afternoon,Jain,13992,75,7,Home Workouts,2,None
+S25,20,Female,162,98,Weight Loss,Sedentary,Afternoon,Jain,13745,86,7,Gym,3,None
+S26,24,Female,172,98,Weight Loss,Active,Afternoon,Vegan,9402,67,8,Yoga,1,Hypertension
+S27,21,Male,174,47,Weight Loss,Active,Evening,Non-Vegetarian,6845,84,10,Sports,1,Asthma
+S28,26,Male,184,94,Weight Loss,Sedentary,Evening,Non-Vegetarian,4796,76,10,Home Workouts,1,None
+S29,20,Female,190,56,Muscle Gain,Lightly Active,Morning,Non-Vegetarian,11245,88,10,Gym,3,None
+S30,22,Male,179,45,Weight Loss,Very Active,Morning,Jain,10214,67,6,Home Workouts,3,Hypertension
+S31,20,Male,166,98,Muscle Gain,Lightly Active,Evening,Vegan,3726,74,5,Sports,4,None
+S32,24,Female,169,88,Muscle Gain,Lightly Active,Evening,Vegetarian,5736,86,6,Sports,6,Asthma
+S33,22,Female,174,49,Endurance,Lightly Active,Evening,Jain,14362,66,9,Running,7,Asthma
+S34,26,Female,171,74,Flexibility,Sedentary,Afternoon,Vegan,4913,62,9,Gym,2,None
+S35,24,Male,162,74,Flexibility,Active,Afternoon,Vegan,12788,88,5,Sports,4,None
+S36,19,Female,168,61,Muscle Gain,Lightly Active,Evening,Vegetarian,13106,83,8,Running,2,None
+S37,21,Male,185,92,Endurance,Sedentary,Afternoon,Vegetarian,10657,62,5,Running,7,None
+S38,26,Male,161,91,Muscle Gain,Lightly Active,Afternoon,Vegetarian,5466,79,7,Home Workouts,6,Hypertension
+S39,19,Female,190,67,Muscle Gain,Lightly Active,Morning,Non-Vegetarian,13929,74,9,Home Workouts,3,None
+S40,26,Female,168,59,Muscle Gain,Sedentary,Evening,Vegetarian,12041,84,4,Running,6,Hypertension
+S41,22,Female,161,81,Endurance,Active,Evening,Vegan,13301,89,4,Home Workouts,3,None
+S42,19,Female,158,65,Flexibility,Active,Afternoon,Vegetarian,10312,73,8,Sports,7,Hypertension
+S43,21,Female,156,58,Endurance,Very Active,Evening,Vegan,11194,66,7,Yoga,6,None
+S44,24,Male,177,46,Weight Loss,Sedentary,Morning,Jain,10906,76,6,Sports,4,None
+S45,25,Male,163,55,Endurance,Very Active,Morning,Non-Vegetarian,7876,79,7,Running,5,None
+S46,20,Male,180,95,Endurance,Very Active,Morning,Jain,10287,95,4,Running,4,Asthma
+S47,18,Male,168,83,Endurance,Very Active,Evening,Jain,3892,68,4,Sports,2,None
+S48,21,Other,165,82,Endurance,Active,Evening,Vegan,13222,97,9,Home Workouts,4,Asthma
+S49,19,Male,154,78,Flexibility,Sedentary,Evening,Jain,14352,81,7,Home Workouts,7,None
+S50,25,Female,184,82,Weight Loss,Very Active,Evening,Vegan,13568,61,7,Running,1,None
+S51,21,Female,161,94,Flexibility,Sedentary,Evening,Vegetarian,7675,83,4,Gym,2,None
+S52,19,Female,174,78,Flexibility,Sedentary,Morning,Vegetarian,4933,67,6,Home Workouts,6,None
+S53,23,Female,170,62,Endurance,Active,Afternoon,Vegan,4380,70,8,Sports,2,None
+S54,23,Female,185,74,Muscle Gain,Very Active,Morning,Vegetarian,14873,72,10,Home Workouts,5,Hypertension
+S55,21,Female,172,59,Muscle Gain,Very Active,Evening,Non-Vegetarian,4290,76,8,Sports,3,Hypertension
+S56,23,Male,165,71,Flexibility,Sedentary,Morning,Jain,4640,67,7,Running,6,Hypertension
+S57,19,Female,188,95,Flexibility,Lightly Active,Evening,Non-Vegetarian,10490,80,8,Home Workouts,2,Asthma
+S58,19,Male,188,78,Endurance,Active,Evening,Jain,13874,77,4,Sports,6,None
+S59,21,Male,163,96,Flexibility,Active,Morning,Vegetarian,12179,89,4,Running,6,None
+S60,25,Female,180,82,Endurance,Active,Evening,Non-Vegetarian,4218,77,7,Gym,6,None
+S61,24,Male,154,77,Muscle Gain,Active,Afternoon,Vegetarian,8016,90,7,Sports,3,Asthma
+S62,26,Other,184,68,Muscle Gain,Very Active,Evening,Jain,9881,97,10,Gym,7,None
+S63,25,Other,172,59,Weight Loss,Very Active,Afternoon,Vegan,12547,91,10,Gym,4,None
+S64,22,Other,178,74,Muscle Gain,Lightly Active,Afternoon,Vegan,12752,70,9,Yoga,6,None
+S65,19,Male,160,99,Flexibility,Active,Evening,Non-Vegetarian,12610,84,7,Home Workouts,1,None
+S66,22,Male,167,86,Muscle Gain,Active,Morning,Vegetarian,3954,92,6,Sports,7,Hypertension
+S67,25,Other,161,95,Endurance,Sedentary,Afternoon,Vegetarian,12175,97,8,Gym,5,Asthma
+S68,26,Male,158,61,Muscle Gain,Very Active,Morning,Non-Vegetarian,10291,100,7,Yoga,3,None
+S69,26,Other,159,49,Weight Loss,Active,Afternoon,Vegan,3974,67,5,Running,2,Hypertension
+S70,18,Other,166,73,Muscle Gain,Lightly Active,Evening,Jain,7133,70,9,Sports,3,None
+S71,26,Female,187,48,Endurance,Lightly Active,Evening,Non-Vegetarian,8370,81,5,Gym,2,None
+S72,24,Male,156,54,Endurance,Very Active,Afternoon,Jain,6972,83,4,Home Workouts,3,None
+S73,26,Male,162,100,Flexibility,Lightly Active,Evening,Vegan,8295,100,10,Yoga,2,None
+S74,25,Female,189,61,Muscle Gain,Lightly Active,Afternoon,Vegetarian,12105,76,8,Gym,6,None
+S75,18,Male,158,54,Endurance,Very Active,Evening,Vegan,11228,71,7,Home Workouts,4,Hypertension
+S76,25,Male,176,61,Weight Loss,Active,Morning,Non-Vegetarian,14579,91,5,Gym,2,None
+S77,25,Female,151,64,Flexibility,Active,Evening,Vegetarian,12903,74,8,Sports,2,Hypertension
+S78,20,Other,154,68,Weight Loss,Lightly Active,Morning,Non-Vegetarian,6020,75,4,Sports,1,None
+S79,18,Female,178,49,Muscle Gain,Lightly Active,Evening,Non-Vegetarian,11987,81,10,Sports,2,None
+S80,25,Female,186,78,Muscle Gain,Active,Morning,Vegan,7036,87,6,Yoga,1,None
+S81,20,Male,187,50,Muscle Gain,Very Active,Evening,Non-Vegetarian,8068,79,9,Sports,5,None
+S82,20,Female,168,97,Flexibility,Lightly Active,Morning,Vegan,8233,92,8,Home Workouts,6,None
+S83,18,Other,157,46,Endurance,Sedentary,Afternoon,Vegetarian,14303,69,8,Gym,1,Hypertension
+S84,22,Male,150,57,Flexibility,Very Active,Afternoon,Vegan,12516,99,6,Running,4,None
+S85,24,Female,171,87,Weight Loss,Lightly Active,Morning,Vegetarian,3317,91,8,Home Workouts,7,None
+S86,26,Female,166,87,Flexibility,Lightly Active,Evening,Vegan,5396,92,4,Home Workouts,6,None
+S87,24,Female,156,92,Weight Loss,Sedentary,Morning,Jain,5162,61,4,Sports,1,None
+S88,26,Female,174,55,Flexibility,Sedentary,Evening,Jain,5745,92,6,Yoga,6,None
+S89,25,Female,153,95,Endurance,Active,Afternoon,Non-Vegetarian,4591,92,9,Gym,6,None
+S90,19,Male,185,91,Weight Loss,Very Active,Evening,Vegan,14303,100,7,Yoga,6,None
+S91,18,Male,155,67,Muscle Gain,Very Active,Afternoon,Vegan,9183,72,5,Gym,5,None
+S92,24,Female,180,99,Muscle Gain,Active,Evening,Vegetarian,6930,89,7,Gym,4,None
+S93,24,Female,168,60,Flexibility,Very Active,Evening,Non-Vegetarian,13188,92,8,Yoga,3,None
+S94,25,Female,188,75,Muscle Gain,Very Active,Evening,Vegan,4312,72,5,Home Workouts,3,None
+S95,22,Other,176,55,Weight Loss,Very Active,Morning,Non-Vegetarian,12477,85,6,Gym,1,None
+S96,20,Female,159,98,Muscle Gain,Very Active,Morning,Jain,7311,81,6,Yoga,6,Hypertension
+S97,25,Female,175,60,Endurance,Very Active,Afternoon,Vegan,10314,98,9,Gym,1,None
+S98,23,Female,168,52,Endurance,Sedentary,Afternoon,Vegan,5383,61,5,Running,5,None
+S99,20,Female,188,48,Flexibility,Very Active,Morning,Non-Vegetarian,6239,97,4,Home Workouts,5,None
+S100,18,Female,152,84,Weight Loss,Sedentary,Afternoon,Vegan,5139,98,5,Sports,2,Hypertension
+S101,20,Female,162,48,Endurance,Very Active,Morning,Non-Vegetarian,4704,85,8,Gym,5,None
+S102,22,Female,177,100,Endurance,Active,Evening,Vegan,9924,74,4,Running,2,None
+S103,20,Male,169,69,Weight Loss,Lightly Active,Afternoon,Vegetarian,3362,93,10,Sports,4,Hypertension
+S104,18,Male,177,47,Muscle Gain,Sedentary,Afternoon,Non-Vegetarian,5604,99,10,Sports,1,None
+S105,22,Male,157,76,Muscle Gain,Very Active,Morning,Vegan,12908,70,10,Gym,7,None
+S106,24,Female,190,47,Flexibility,Active,Afternoon,Jain,7286,62,6,Yoga,4,None
+S107,24,Male,188,71,Muscle Gain,Lightly Active,Afternoon,Vegan,6738,65,5,Gym,5,None
+S108,26,Female,150,73,Weight Loss,Sedentary,Evening,Jain,5469,68,10,Running,4,Hypertension
+S109,20,Female,152,76,Endurance,Lightly Active,Afternoon,Jain,7795,65,7,Sports,4,Asthma
+S110,24,Male,162,94,Muscle Gain,Active,Evening,Vegetarian,9150,68,9,Gym,4,None
+S111,18,Female,177,95,Flexibility,Sedentary,Morning,Non-Vegetarian,3556,98,7,Yoga,5,None
+S112,21,Male,174,63,Muscle Gain,Lightly Active,Afternoon,Vegan,12017,90,10,Gym,7,None
+S113,21,Male,182,65,Weight Loss,Very Active,Evening,Vegetarian,5808,91,9,Home Workouts,6,None
+S114,22,Female,187,49,Flexibility,Sedentary,Morning,Vegan,8150,100,8,Yoga,4,Asthma
+S115,24,Male,155,62,Muscle Gain,Lightly Active,Afternoon,Jain,10561,71,7,Running,2,None
+S116,24,Male,181,72,Flexibility,Active,Morning,Non-Vegetarian,5719,67,5,Sports,5,None
+S117,21,Female,170,86,Weight Loss,Active,Afternoon,Vegan,9506,67,5,Gym,4,Asthma
+S118,24,Female,165,66,Endurance,Sedentary,Morning,Vegan,14700,87,7,Yoga,7,None
+S119,20,Male,170,65,Weight Loss,Lightly Active,Morning,Jain,6741,79,10,Home Workouts,6,None
+S120,23,Female,160,50,Weight Loss,Sedentary,Evening,Vegan,12766,66,5,Yoga,5,None
+S121,19,Male,186,45,Weight Loss,Sedentary,Morning,Vegan,6998,70,8,Home Workouts,3,Hypertension
+S122,26,Male,185,49,Weight Loss,Lightly Active,Afternoon,Jain,13321,79,4,Running,6,None
+S123,22,Female,184,85,Endurance,Lightly Active,Afternoon,Vegetarian,5403,75,10,Sports,2,None
+S124,23,Female,168,56,Endurance,Very Active,Evening,Jain,14521,63,8,Running,4,None
+S125,21,Female,169,70,Flexibility,Lightly Active,Afternoon,Vegetarian,11780,65,9,Gym,7,None
+S126,24,Female,167,90,Muscle Gain,Active,Afternoon,Non-Vegetarian,13204,81,8,Yoga,3,Asthma
+S127,26,Other,190,78,Endurance,Sedentary,Afternoon,Vegetarian,12739,85,10,Home Workouts,7,Asthma
+S128,24,Female,163,93,Endurance,Sedentary,Morning,Vegetarian,3294,62,9,Home Workouts,3,None
+S129,18,Male,164,58,Muscle Gain,Active,Morning,Non-Vegetarian,13177,100,10,Yoga,5,None
+S130,18,Female,180,70,Endurance,Lightly Active,Afternoon,Vegetarian,8343,73,5,Yoga,3,None
+S131,26,Male,150,89,Weight Loss,Active,Evening,Jain,14309,70,4,Gym,2,None
+S132,26,Male,152,71,Weight Loss,Active,Morning,Vegetarian,12882,77,10,Running,2,None
+S133,21,Male,165,53,Muscle Gain,Very Active,Evening,Non-Vegetarian,4136,71,10,Home Workouts,1,Hypertension
+S134,26,Male,172,70,Flexibility,Active,Afternoon,Jain,5064,82,5,Gym,2,None
+S135,20,Other,160,91,Flexibility,Sedentary,Afternoon,Non-Vegetarian,10009,71,6,Running,6,None
+S136,24,Female,161,66,Muscle Gain,Active,Morning,Non-Vegetarian,7543,72,5,Gym,3,None
+S137,23,Female,159,91,Muscle Gain,Sedentary,Afternoon,Vegan,4007,84,9,Home Workouts,2,Asthma
+S138,25,Male,181,100,Weight Loss,Sedentary,Morning,Vegan,8445,78,5,Yoga,5,Asthma
+S139,26,Male,165,74,Flexibility,Sedentary,Afternoon,Non-Vegetarian,13706,95,5,Yoga,7,Hypertension
+S140,22,Male,157,87,Endurance,Lightly Active,Afternoon,Non-Vegetarian,14718,67,4,Running,7,None
+S141,18,Male,187,92,Weight Loss,Very Active,Morning,Non-Vegetarian,8352,88,5,Sports,1,None
+S142,20,Female,161,61,Muscle Gain,Sedentary,Morning,Vegan,12439,91,10,Running,7,Hypertension
+S143,25,Female,173,70,Flexibility,Sedentary,Morning,Vegan,4435,77,4,Sports,3,None
+S144,23,Female,177,80,Endurance,Lightly Active,Afternoon,Vegetarian,3571,65,7,Gym,1,None
+S145,25,Male,157,45,Endurance,Sedentary,Afternoon,Vegetarian,5382,77,6,Gym,3,Asthma
+S146,26,Other,177,52,Weight Loss,Active,Evening,Non-Vegetarian,12437,78,4,Home Workouts,5,Asthma
+S147,21,Female,185,93,Flexibility,Active,Morning,Jain,13276,81,9,Sports,1,None
+S148,18,Female,175,79,Flexibility,Very Active,Afternoon,Jain,8084,96,7,Home Workouts,4,None
+S149,18,Female,157,96,Muscle Gain,Sedentary,Afternoon,Vegan,3277,91,4,Yoga,6,None
+S150,21,Male,177,59,Flexibility,Lightly Active,Morning,Vegan,10059,100,4,Sports,6,None
+S151,24,Male,177,91,Flexibility,Active,Evening,Vegan,4887,62,6,Running,3,None
+S152,19,Male,186,100,Weight Loss,Lightly Active,Morning,Non-Vegetarian,4265,87,10,Yoga,7,Asthma
+S153,20,Female,190,66,Flexibility,Lightly Active,Evening,Jain,10491,69,9,Yoga,4,Asthma
+S154,18,Male,185,58,Endurance,Active,Afternoon,Vegetarian,4040,94,8,Running,1,Asthma
+S155,22,Male,176,70,Weight Loss,Lightly Active,Evening,Non-Vegetarian,12109,88,8,Yoga,4,None
+S156,18,Male,166,72,Weight Loss,Active,Afternoon,Vegetarian,11073,74,4,Sports,4,Asthma
+S157,25,Male,158,67,Muscle Gain,Lightly Active,Morning,Vegetarian,12077,92,5,Home Workouts,7,Asthma
+S158,18,Female,182,58,Flexibility,Active,Morning,Non-Vegetarian,5752,66,9,Yoga,1,None
+S159,18,Female,169,68,Muscle Gain,Sedentary,Morning,Vegetarian,11213,71,7,Sports,5,Asthma
+S160,19,Female,162,46,Endurance,Very Active,Evening,Jain,7569,89,5,Gym,7,Asthma
+S161,19,Male,177,89,Weight Loss,Active,Afternoon,Vegetarian,14383,80,5,Sports,4,None
+S162,23,Female,178,70,Weight Loss,Active,Morning,Jain,9353,90,9,Home Workouts,4,None
+S163,24,Female,162,58,Weight Loss,Very Active,Morning,Jain,5353,83,10,Sports,5,None
+S164,22,Male,184,100,Endurance,Active,Afternoon,Jain,10437,79,4,Running,4,None
+S165,18,Male,155,95,Endurance,Active,Morning,Vegan,7799,96,4,Home Workouts,4,None
+S166,18,Male,167,51,Muscle Gain,Lightly Active,Afternoon,Vegetarian,3686,63,4,Gym,4,Asthma
+S167,20,Female,154,47,Muscle Gain,Very Active,Afternoon,Non-Vegetarian,11476,87,4,Running,6,None
+S168,19,Female,174,91,Muscle Gain,Sedentary,Afternoon,Non-Vegetarian,7811,79,8,Sports,7,None
+S169,22,Male,151,67,Flexibility,Active,Afternoon,Vegetarian,14939,83,4,Home Workouts,2,None
+S170,23,Male,159,90,Weight Loss,Very Active,Afternoon,Vegan,11954,91,8,Gym,7,None
+S171,24,Female,179,87,Weight Loss,Lightly Active,Evening,Vegan,8346,100,8,Running,5,None
+S172,21,Female,154,91,Muscle Gain,Sedentary,Morning,Jain,8043,95,10,Gym,4,None
+S173,24,Female,182,89,Weight Loss,Very Active,Evening,Vegetarian,5428,93,4,Sports,7,None
+S174,25,Female,150,62,Muscle Gain,Sedentary,Morning,Vegetarian,13699,95,6,Gym,6,None
+S175,18,Male,167,82,Flexibility,Sedentary,Evening,Non-Vegetarian,8126,61,7,Yoga,5,None
+S176,23,Male,181,79,Flexibility,Sedentary,Afternoon,Vegetarian,11220,74,5,Running,3,None
+S177,25,Female,160,95,Endurance,Active,Morning,Vegan,12098,93,8,Gym,7,Hypertension
+S178,22,Male,170,59,Flexibility,Active,Morning,Vegetarian,14296,95,9,Sports,3,None
+S179,21,Female,175,69,Muscle Gain,Lightly Active,Evening,Non-Vegetarian,10813,65,9,Sports,4,Asthma
+S180,19,Other,174,99,Flexibility,Lightly Active,Evening,Jain,14186,98,7,Gym,6,None
+S181,23,Female,171,81,Endurance,Very Active,Morning,Non-Vegetarian,13698,71,9,Sports,6,None
+S182,23,Male,176,72,Weight Loss,Lightly Active,Evening,Non-Vegetarian,14801,62,6,Home Workouts,7,Asthma
+S183,18,Female,162,54,Muscle Gain,Sedentary,Evening,Jain,14745,77,9,Home Workouts,5,None
+S184,26,Female,182,83,Weight Loss,Sedentary,Evening,Non-Vegetarian,12645,99,5,Home Workouts,5,None
+S185,23,Female,183,61,Endurance,Active,Afternoon,Non-Vegetarian,6356,80,5,Yoga,6,None
+S186,20,Other,190,83,Endurance,Sedentary,Afternoon,Vegetarian,11707,74,8,Gym,5,None
+S187,21,Male,184,66,Endurance,Very Active,Evening,Vegetarian,10266,92,4,Yoga,6,None
+S188,21,Other,150,70,Weight Loss,Sedentary,Evening,Jain,9540,94,10,Sports,7,None
+S189,20,Other,170,88,Weight Loss,Sedentary,Afternoon,Vegetarian,3038,85,6,Yoga,2,None
+S190,20,Male,155,69,Weight Loss,Very Active,Afternoon,Vegetarian,6342,67,8,Sports,6,None
+S191,20,Male,177,61,Weight Loss,Lightly Active,Morning,Non-Vegetarian,12078,95,6,Sports,3,None
+S192,21,Male,166,57,Endurance,Lightly Active,Morning,Vegan,5844,89,4,Running,5,Asthma
+S193,24,Male,154,64,Endurance,Very Active,Afternoon,Vegetarian,13396,82,9,Home Workouts,6,Hypertension
+S194,21,Male,180,69,Muscle Gain,Active,Evening,Vegan,4098,73,9,Sports,6,None
+S195,26,Female,154,48,Muscle Gain,Sedentary,Evening,Vegetarian,10027,73,10,Running,7,Asthma
+S196,18,Male,187,54,Weight Loss,Very Active,Evening,Vegetarian,4823,61,4,Home Workouts,5,None
+S197,25,Male,152,47,Flexibility,Sedentary,Evening,Jain,14393,96,8,Sports,2,None
+S198,24,Female,172,85,Flexibility,Active,Morning,Jain,6155,64,10,Sports,7,None
+S199,19,Male,186,89,Endurance,Sedentary,Afternoon,Jain,6093,97,4,Yoga,2,Asthma
+S200,25,Female,186,62,Endurance,Very Active,Evening,Vegan,14722,100,7,Yoga,7,None
